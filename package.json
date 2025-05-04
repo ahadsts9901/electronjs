@@ -20,6 +20,7 @@
     }
   },
   "dependencies": {
+    "electron-is-dev": "^3.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -30,7 +31,6 @@
     "@vitejs/plugin-react": "^4.3.4",
     "electron": "^36.1.0",
     "electron-builder": "^26.0.12",
-    "electron-is-dev": "^3.0.1",
     "eslint": "^9.22.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
